@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76571907834",
+    "project_id": "super-noa",
+    "storage_bucket": "super-noa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76571907834:android:d09249f0ea56a875165b43",
+        "android_client_info": {
+          "package_name": "com.example.super_noa_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76571907834-enuuvv8rjrt4n7p7r6o6cltf62n39c38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOFIOP-H7rPPt170-vLSRV9Z3Jg0knQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76571907834-enuuvv8rjrt4n7p7r6o6cltf62n39c38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
